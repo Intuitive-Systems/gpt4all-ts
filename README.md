@@ -1,3 +1,9 @@
+# This Repository is Deprecated! 
+
+This package has been adopted by Nomic as *official* and now lives under the nomic-ai github organization [here](https://github.com/nomic-ai/gpt4all-ts)
+
+This repository will be archived and not updated, please report all issues to the official repository [here](https://github.com/nomic-ai/gpt4all-ts/issues).
+
 # gpt4all-ts 🌐🚀📚
 
 gpt4all-ts is a TypeScript library that provides an interface to interact with GPT4All, which was originally implemented in Python using the [nomic SDK](https://github.com/nomic-ai/nomic/blob/main/nomic/gpt4all/gpt4all.py). This library aims to extend and bring the amazing capabilities of GPT4All to the TypeScript ecosystem.
